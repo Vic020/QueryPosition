@@ -1,0 +1,30 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: QueryPosition - Win32 Release--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\Vic\AppData\Local\Temp\RSPC83A.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:no /pdb:"Release/QueryPosition.pdb" /machine:I386 /out:"Release/QueryPosition.exe" 
+".\Release\data.obj"
+".\Release\QueryPosition.obj"
+".\Release\QueryPositionDlg.obj"
+".\Release\StdAfx.obj"
+".\Release\QueryPosition.res"
+".\Release\About.obj"
+".\Release\UpLog.obj"
+]
+Creating command line "link.exe @C:\Users\Vic\AppData\Local\Temp\RSPC83A.tmp"
+<h3>Output Window</h3>
+Linking...
+
+
+
+<h3>Results</h3>
+QueryPosition.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
